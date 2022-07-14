@@ -7,3 +7,4 @@ let city = "Ransart";
 console.log("je m'appele " + firstName + Name + " et j'habite à " + city);
 console.log(fisrtnumb+secondNumb);
 console.log("hello");
+
